@@ -1,0 +1,6 @@
+grpc-demo这个Maven工程主要包含四个模块，
+
+grpc-demo-interface - 存放proto文件产生的代码
+grpc-demo-service - 实现服务
+grpc-demo-server - 简单服务器
+grpc-demo-client - 简单的客户端
